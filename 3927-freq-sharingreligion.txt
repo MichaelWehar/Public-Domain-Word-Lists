@@ -1,4 +1,4 @@
-# Public Domain - Michael Wehar
+# This data is public domain - Michael Wehar
 # Compiled from http://www.sharingreligion.com
 
 1332,i
