@@ -1,4 +1,6 @@
-count,word
+# Public Domain - Michael Wehar
+# Compiled from http://www.sharingreligion.com
+
 1332,i
 1052,the
 880,and
@@ -1950,7 +1952,7 @@ count,word
 1,worked
 1,worker
 1,pick
-1,”
+1,Â”
 1,whatnot
 1,supplication
 1,thirst
@@ -2142,7 +2144,7 @@ count,word
 1,firsthand
 1,mindset
 1,buddhist
-1,“it's
+1,Â“it's
 1,awful
 1,panentheism
 1,daughter's
